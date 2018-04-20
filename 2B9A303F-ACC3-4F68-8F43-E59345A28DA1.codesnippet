@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>codeCreattutton</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
+    [button setImage:[UIImage imageNamed:&lt;#(nonnull NSString *)#&gt;] forState:UIControlStateNormal];
+    [button setImage:[UIImage imageNamed:&lt;#(nonnull NSString *)#&gt;] forState:UIControlStateHighlighted];
+    [button setTitle:@"&lt;#(nullable NSString *)#&gt;" forState:UIControlStateNormal];
+    [button setTitle:@"&lt;#(nullable NSString *)#&gt;" forState:UIControlStateHighlighted];
+    [button addTarget:self action:@selector(&lt;#selector#&gt;) forControlEvents:UIControlEventTouchUpInside];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2B9A303F-ACC3-4F68-8F43-E59345A28DA1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>codeCreattutton</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>codeCreattutton</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
