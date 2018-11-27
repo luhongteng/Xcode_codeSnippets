@@ -3,24 +3,33 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>PropertyStrong</string>
+	<string>TestMethodTemplate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>- (void)test&lt;#methodName#&gt;Method {
+    //given
+    &lt;#given code#&gt;
+    
+    //when
+    &lt;#when code#&gt;
+    
+    //then
+    &lt;#then code#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>395FF1A4-7A01-41EA-807C-4B66D72679D8</string>
+	<string>93FA78B8-8230-4BAE-AAE4-09D8FA9C9DB3</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>PropertyStrong</string>
+	<string>TestMethodTemplate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>PropertyStrong</string>
+	<string>TestMethodTemplate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

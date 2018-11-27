@@ -3,21 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>PropertyStrong</string>
+	<string>Macro-if-debug</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>#ifdef DEBUG
+
+&lt;#code#&gt;
+
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>395FF1A4-7A01-41EA-807C-4B66D72679D8</string>
+	<string>F3F036A0-6E1B-4810-84FC-A66D06E9104B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>PropertyStrong</string>
+	<string>Macro-if-debug</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>PropertyStrong</string>
+	<string>Macro-if-debug</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

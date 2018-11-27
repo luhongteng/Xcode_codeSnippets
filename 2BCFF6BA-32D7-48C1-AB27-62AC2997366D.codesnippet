@@ -3,24 +3,32 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>PropertyStrong</string>
+	<string>Given-When-Then</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>//given
+&lt;#given code#&gt;
+
+//when
+&lt;#when code#&gt;
+
+//then
+&lt;#then code#&gt;
+   </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>395FF1A4-7A01-41EA-807C-4B66D72679D8</string>
+	<string>2BCFF6BA-32D7-48C1-AB27-62AC2997366D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>PropertyStrong</string>
+	<string>Given-When-Then</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>PropertyStrong</string>
+	<string>Given-When-Then</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
