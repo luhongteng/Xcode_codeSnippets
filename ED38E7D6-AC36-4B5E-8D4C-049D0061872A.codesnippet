@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>classExtention</string>
+	<string>markOverride</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@interface &lt;#Class#&gt; ()
-
-@end</string>
+	<string>#pragma mark - Override methods (重写父类方法)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B70C336C-4EF2-4F10-906A-28880663539A</string>
+	<string>ED38E7D6-AC36-4B5E-8D4C-049D0061872A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Class Extention</string>
+	<string>markOverride</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Class Extention</string>
+	<string>markOverride</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

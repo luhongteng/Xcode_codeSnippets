@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>defineoption</string>
+	<string>Repeat-While</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>typedef NS_OPTIONS(&lt;#_type#&gt;, &lt;#_name#&gt;){
-    
-};</string>
+	<string>repeat {
+    &lt;#code#&gt;
+}while &lt;#condition#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9F2034F9-A28D-49F8-9CD2-A0AE152C823B</string>
+	<string>B35B26FE-E8B0-47C9-A18A-5BEFC3A36436</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>defineoption</string>
+	<string>Repeat-While</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>defineoption</string>
+	<string>My Code Snippet</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
