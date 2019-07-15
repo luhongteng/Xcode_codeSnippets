@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3B4AB445-7A4E-4392-840A-ED03266157D7</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>defineenum</string>
 	<key>IDECodeSnippetTitle</key>

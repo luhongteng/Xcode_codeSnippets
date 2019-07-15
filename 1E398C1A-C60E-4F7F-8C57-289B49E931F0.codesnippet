@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1E398C1A-C60E-4F7F-8C57-289B49E931F0</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>delegateInvoke</string>
 	<key>IDECodeSnippetTitle</key>

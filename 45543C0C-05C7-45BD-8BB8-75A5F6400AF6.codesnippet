@@ -13,7 +13,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>45543C0C-05C7-45BD-8BB8-75A5F6400AF6</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>@synthesize</string>
 	<key>IDECodeSnippetTitle</key>
